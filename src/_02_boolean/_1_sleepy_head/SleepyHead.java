@@ -104,6 +104,7 @@ public class SleepyHead {
 	
 	static void drawRedSquare() {
 		Robot rob = new Robot();
+		
 		// Complete the rest of this method
 	}	
 }
